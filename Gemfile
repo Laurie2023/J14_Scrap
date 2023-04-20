@@ -1,0 +1,11 @@
+source "https://rubygems.org"
+ruby '2.7.1'
+gem 'rspec'
+gem 'dotenv'
+gem 'http'
+gem 'json'
+gem 'nokogiri'
+gem 'open-uri'
+gem 'watir'
+gem 'selenium-webdriver'
+gem 'webdrivers'
