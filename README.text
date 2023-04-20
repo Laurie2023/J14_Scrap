@@ -1,0 +1,9 @@
+Holà! 
+Dans ce fichier, tu trouveras mes petits programmes de scrap dans "lib" et les programmes test dans "spec".
+N'oublies pas de télécharger Gemfile afin d'avoir toutes les gems nécessaires au fonctionnement des programmes ! 
+
+Programme #1 : Crypto scrap => fait la liste de 200 cryptos et de leur prix en temps réel.
+Programme #2 : Marie Chrismas => fait la liste de toutes les mairies du Val d'Oise, avec leur adresse email.
+Programme #3 : Deputy => fait la liste des députés français (nom et prénom) et de leur adresse email profesionnelle.
+
+Amuses-toi bien !!
